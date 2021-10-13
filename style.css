@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    width: 100%;
+    margin:0px;
+    font-size: 23px;
+}
+
+canvas{
+    border:2px solid whitesmoke;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px whitesmoke;
+    margin-top:110px;
+
+}
